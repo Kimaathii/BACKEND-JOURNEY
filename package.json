@@ -1,0 +1,18 @@
+{
+  "name": "backend-mastery-month-3",
+  "version": "1.0.0",
+  "description": "Month 3 - Backend & Database Mastery - 30 Day Journey",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx --watch",
+    "start": "tsx"
+  },
+  "keywords": ["backend", "typescript", "learning"],
+  "author": "You",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.0"
+  }
+}
