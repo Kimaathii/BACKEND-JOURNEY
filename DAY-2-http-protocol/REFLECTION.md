@@ -1,4 +1,4 @@
-# Day 1 - HTTP Server - Reflection
+# Day 2 - HTTP Protocol Deep Dive - Reflection
 
 ## What I Built Today
 [I Learnt how set up HTTP server to listen to req and access it url and method and logically response with a status code, content type and body using req.writeHead and req.end, status code are divided into 3 categories 2XX, 4XX, 5XX.... 200, 201, 204 for success, create, delete success, 4XX client error- 400, 401, 403, 404 - for invalid request, unauthorize login , permission missing, not found. 5XX 500, 503 server error, unavailable server.....]
